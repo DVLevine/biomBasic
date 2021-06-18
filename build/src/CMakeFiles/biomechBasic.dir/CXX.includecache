@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/src/biomechTime.cpp
+biomechTime.h
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/src/biomechTime.h
+time.h
+-
+sys/time.h
+-
+errno.h
+-
+unistd.h
+-
+stdint.h
+-
+
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/src/biomechTime.h
+stdint.h
+-
+time.h
+-
+sys/time.h
+-
+

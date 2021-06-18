@@ -1,0 +1,13 @@
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/install/strip.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/install/local.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/install.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/list_install_components.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/rebuild_cache.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/CMakeFiles/edit_cache.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/install/strip.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/install/local.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/install.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/list_install_components.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/rebuild_cache.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/edit_cache.dir
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomechBasic/build/src/CMakeFiles/biomechBasic.dir

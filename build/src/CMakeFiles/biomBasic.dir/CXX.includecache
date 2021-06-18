@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elchun/Documents/TorizonProject/biomech_talaria_verdincontroller/biomBasic/src/biomTime.cpp
+cstdint
+-
+time.h
+-
+sys/time.h
+-
+

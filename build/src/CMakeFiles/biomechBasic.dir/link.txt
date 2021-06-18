@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbiomechBasic.a  CMakeFiles/biomechBasic.dir/biomechTime.cpp.o
+/usr/bin/ranlib libbiomechBasic.a
